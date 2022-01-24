@@ -1,0 +1,12 @@
+# server
+__pycache__
+
+# client
+node_modules
+build
+
+# snyk
+.dccache
+
+# docker (personal tests)
+docker-compose (test prod).yml
